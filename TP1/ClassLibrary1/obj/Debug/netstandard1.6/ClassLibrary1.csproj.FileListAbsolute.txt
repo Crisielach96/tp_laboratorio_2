@@ -1,0 +1,16 @@
+C:\Users\Cris\source\repos\TP1\ClassLibrary1\bin\Debug\netstandard1.6\ClassLibrary1.deps.json
+C:\Users\Cris\source\repos\TP1\ClassLibrary1\bin\Debug\netstandard1.6\ClassLibrary1.dll
+C:\Users\Cris\source\repos\TP1\ClassLibrary1\bin\Debug\netstandard1.6\ClassLibrary1.pdb
+C:\Users\Cris\source\repos\TP1\ClassLibrary1\obj\Debug\netstandard1.6\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Cris\source\repos\TP1\ClassLibrary1\obj\Debug\netstandard1.6\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Cris\source\repos\TP1\ClassLibrary1\obj\Debug\netstandard1.6\ClassLibrary1.AssemblyInfo.cs
+C:\Users\Cris\source\repos\TP1\ClassLibrary1\obj\Debug\netstandard1.6\ClassLibrary1.dll
+C:\Users\Cris\source\repos\TP1\ClassLibrary1\obj\Debug\netstandard1.6\ClassLibrary1.pdb
+C:\Users\Cris\source\repos\tp_laboratorio_2\TP1\ClassLibrary1\bin\Debug\netstandard1.6\ClassLibrary1.deps.json
+C:\Users\Cris\source\repos\tp_laboratorio_2\TP1\ClassLibrary1\bin\Debug\netstandard1.6\ClassLibrary1.dll
+C:\Users\Cris\source\repos\tp_laboratorio_2\TP1\ClassLibrary1\bin\Debug\netstandard1.6\ClassLibrary1.pdb
+C:\Users\Cris\source\repos\tp_laboratorio_2\TP1\ClassLibrary1\obj\Debug\netstandard1.6\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Cris\source\repos\tp_laboratorio_2\TP1\ClassLibrary1\obj\Debug\netstandard1.6\ClassLibrary1.AssemblyInfo.cs
+C:\Users\Cris\source\repos\tp_laboratorio_2\TP1\ClassLibrary1\obj\Debug\netstandard1.6\ClassLibrary1.dll
+C:\Users\Cris\source\repos\tp_laboratorio_2\TP1\ClassLibrary1\obj\Debug\netstandard1.6\ClassLibrary1.pdb
+C:\Users\Cris\source\repos\tp_laboratorio_2\TP1\ClassLibrary1\obj\Debug\netstandard1.6\ClassLibrary1.csprojResolveAssemblyReference.cache
