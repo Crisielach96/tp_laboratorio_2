@@ -1,0 +1,72 @@
+C:\Users\encin\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\TestDeConsola.exe.config
+C:\Users\encin\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\TestDeConsola.exe
+C:\Users\encin\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\TestDeConsola.pdb
+C:\Users\encin\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Archivos.dll
+C:\Users\encin\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Clases Abstractas.dll
+C:\Users\encin\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Clases Instanciables.dll
+C:\Users\encin\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Excepciones.dll
+C:\Users\encin\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\TestUnitario.dll
+C:\Users\encin\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Archivos.pdb
+C:\Users\encin\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Clases Abstractas.pdb
+C:\Users\encin\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Clases Instanciables.pdb
+C:\Users\encin\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Excepciones.pdb
+C:\Users\encin\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\TestUnitario.pdb
+C:\Users\encin\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\obj\Debug\TestDeConsola.csprojResolveAssemblyReference.cache
+C:\Users\encin\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\obj\Debug\TestDeConsola.exe
+C:\Users\encin\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\obj\Debug\TestDeConsola.pdb
+C:\Users\encin\Documents\GitHub\tp_laboratorio_2\TP3\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\TestDeConsola.exe.config
+C:\Users\encin\Documents\GitHub\tp_laboratorio_2\TP3\Encina.Francisco.2A.TP3\TestDeConsola\obj\Debug\TestDeConsola.exe
+C:\Users\encin\Documents\GitHub\tp_laboratorio_2\TP3\Encina.Francisco.2A.TP3\TestDeConsola\obj\Debug\TestDeConsola.pdb
+C:\Users\encin\Documents\GitHub\tp_laboratorio_2\TP3\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\TestDeConsola.exe
+C:\Users\encin\Documents\GitHub\tp_laboratorio_2\TP3\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\TestDeConsola.pdb
+C:\Users\encin\Documents\GitHub\tp_laboratorio_2\TP3\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Archivos.dll
+C:\Users\encin\Documents\GitHub\tp_laboratorio_2\TP3\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Clases Abstractas.dll
+C:\Users\encin\Documents\GitHub\tp_laboratorio_2\TP3\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Clases Instanciables.dll
+C:\Users\encin\Documents\GitHub\tp_laboratorio_2\TP3\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Excepciones.dll
+C:\Users\encin\Documents\GitHub\tp_laboratorio_2\TP3\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\TestUnitario.dll
+C:\Users\encin\Documents\GitHub\tp_laboratorio_2\TP3\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Archivos.pdb
+C:\Users\encin\Documents\GitHub\tp_laboratorio_2\TP3\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Clases Abstractas.pdb
+C:\Users\encin\Documents\GitHub\tp_laboratorio_2\TP3\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Clases Instanciables.pdb
+C:\Users\encin\Documents\GitHub\tp_laboratorio_2\TP3\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Excepciones.pdb
+C:\Users\encin\Documents\GitHub\tp_laboratorio_2\TP3\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\TestUnitario.pdb
+C:\Users\encin\Documents\GitHub\tp_laboratorio_2\TP3\Encina.Francisco.2A.TP3\TestDeConsola\obj\Debug\TestDeConsola.csprojResolveAssemblyReference.cache
+C:\Users\Cris\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\TestDeConsola.exe.config
+C:\Users\Cris\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\TestDeConsola.exe
+C:\Users\Cris\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\TestDeConsola.pdb
+C:\Users\Cris\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Archivos.dll
+C:\Users\Cris\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Clases Abstractas.dll
+C:\Users\Cris\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Clases Instanciables.dll
+C:\Users\Cris\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Excepciones.dll
+C:\Users\Cris\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\TestUnitario.dll
+C:\Users\Cris\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Cris\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Archivos.pdb
+C:\Users\Cris\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Clases Abstractas.pdb
+C:\Users\Cris\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Clases Instanciables.pdb
+C:\Users\Cris\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\Excepciones.pdb
+C:\Users\Cris\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\TestUnitario.pdb
+C:\Users\Cris\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Cris\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\obj\Debug\TestDeConsola.csprojResolveAssemblyReference.cache
+C:\Users\Cris\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\obj\Debug\TestDeConsola.csproj.CoreCompileInputs.cache
+C:\Users\Cris\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\obj\Debug\TestDeConsola.csproj.CopyComplete
+C:\Users\Cris\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\obj\Debug\TestDeConsola.exe
+C:\Users\Cris\Desktop\Encina.Francisco.2A.TP3\TestDeConsola\obj\Debug\TestDeConsola.pdb
+C:\Users\Cris\Desktop\Sielach.Cristian.2A.TP3\TestDeConsola\bin\Debug\TestDeConsola.exe.config
+C:\Users\Cris\Desktop\Sielach.Cristian.2A.TP3\TestDeConsola\bin\Debug\TestDeConsola.exe
+C:\Users\Cris\Desktop\Sielach.Cristian.2A.TP3\TestDeConsola\bin\Debug\TestDeConsola.pdb
+C:\Users\Cris\Desktop\Sielach.Cristian.2A.TP3\TestDeConsola\bin\Debug\Archivos.dll
+C:\Users\Cris\Desktop\Sielach.Cristian.2A.TP3\TestDeConsola\bin\Debug\Clases Abstractas.dll
+C:\Users\Cris\Desktop\Sielach.Cristian.2A.TP3\TestDeConsola\bin\Debug\Clases Instanciables.dll
+C:\Users\Cris\Desktop\Sielach.Cristian.2A.TP3\TestDeConsola\bin\Debug\Excepciones.dll
+C:\Users\Cris\Desktop\Sielach.Cristian.2A.TP3\TestDeConsola\bin\Debug\TestUnitario.dll
+C:\Users\Cris\Desktop\Sielach.Cristian.2A.TP3\TestDeConsola\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Cris\Desktop\Sielach.Cristian.2A.TP3\TestDeConsola\bin\Debug\Archivos.pdb
+C:\Users\Cris\Desktop\Sielach.Cristian.2A.TP3\TestDeConsola\bin\Debug\Clases Abstractas.pdb
+C:\Users\Cris\Desktop\Sielach.Cristian.2A.TP3\TestDeConsola\bin\Debug\Clases Instanciables.pdb
+C:\Users\Cris\Desktop\Sielach.Cristian.2A.TP3\TestDeConsola\bin\Debug\Excepciones.pdb
+C:\Users\Cris\Desktop\Sielach.Cristian.2A.TP3\TestDeConsola\bin\Debug\TestUnitario.pdb
+C:\Users\Cris\Desktop\Sielach.Cristian.2A.TP3\TestDeConsola\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Cris\Desktop\Sielach.Cristian.2A.TP3\TestDeConsola\obj\Debug\TestDeConsola.csprojResolveAssemblyReference.cache
+C:\Users\Cris\Desktop\Sielach.Cristian.2A.TP3\TestDeConsola\obj\Debug\TestDeConsola.csproj.CoreCompileInputs.cache
+C:\Users\Cris\Desktop\Sielach.Cristian.2A.TP3\TestDeConsola\obj\Debug\TestDeConsola.csproj.CopyComplete
+C:\Users\Cris\Desktop\Sielach.Cristian.2A.TP3\TestDeConsola\obj\Debug\TestDeConsola.exe
+C:\Users\Cris\Desktop\Sielach.Cristian.2A.TP3\TestDeConsola\obj\Debug\TestDeConsola.pdb
